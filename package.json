@@ -1,0 +1,19 @@
+{
+  "name": "remember-key",
+  "version": "0.0.1",
+  "description": "A lightweight module for generating easy-to-remember passwords.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcmarians/remember-key"
+  },
+  "author": "Alessia Mariani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcmarians/remember-key/issues"
+  },
+  "homepage": "https://github.com/mcmarians/remember-key"
+}
